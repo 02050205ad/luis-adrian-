@@ -1,0 +1,88 @@
+/* Configuración general */
+body {
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+    background: url('https://i.pinimg.com/originals/ec/af/f2/ecaff23342cb003764c7df5ab2fcae95.gif') no-repeat center center fixed;
+    background-size: cover;}
+
+
+
+body {
+    font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+
+}
+
+header { 
+    background-color: rgba(137, 43, 226, 0.445);
+    color: rgb(65, 224, 171);
+    padding: 10px;
+ text-align: center;
+}
+nav ul {
+    list-style: none;
+padding: 0;
+margin: 0;
+}
+
+nav li {
+    display: inline;
+margin-right: 20px;
+}
+
+nav a {
+text-decoration: none;
+color: rgb(72, 226, 193);
+font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: dotted;}
+
+.Productos {
+ display: flex;
+ flex-wrap: wrap;
+justify-content: space-around;
+padding: 20px;
+}
+
+.Producto {
+border: solid rgb(133, 165, 226);
+padding: 10px;
+margin: 10px;
+text-align: center;
+flex: 20px;
+box-sizing: border-box;
+}
+.Producto img { 
+max-width: 100%;
+height: auto;
+
+}
+
+footer {
+    background-color: rgb(18, 18, 145);
+    color: blanchedalmond;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

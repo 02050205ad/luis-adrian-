@@ -1,0 +1,130 @@
+ /* Configuración general */
+ body {
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+    background: url('https://i.pinimg.com/originals/d2/57/03/d257036f81cd828354bf309df6e92685.gif') no-repeat center center fixed;
+    background-size: cover;}
+    
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+line-height: 1.6;
+background-color: rgba(47, 2, 59, 0.411);
+color: rgb(168, 174, 228);
+
+}
+header {
+    background-color: rgba(115, 39, 202, 0.466);
+color: rgb(123, 202, 228);
+padding: 10px;
+text-align: center;
+}
+
+header h1 {
+    margin: 0;
+
+
+}
+Nav ul {
+    list-style: none;
+    padding: 0;
+
+}
+
+nav ul li {
+    display: inline;
+margin-right: 15px;
+
+}
+
+nav ul li a {
+    color: rgb(169, 198, 249);
+text-decoration: none;
+font-weight: bold;
+}
+
+nav ul li a:hover {
+text-decoration: dotted;
+color: rgb(205, 255, 230);
+margin: 20px 0;
+
+
+}
+
+.section {
+padding: 20px;
+background-color: rgba(67, 6, 102, 0.377);
+margin: 20px;
+
+}
+
+.section h2 {
+margin-bottom: 15px;
+color: rgb(71, 165, 42);
+}
+ .section img {
+max-width: 100%;
+height: auto;
+
+ }
+
+form label  {
+margin-bottom: 5px;
+
+}
+
+form input, form textarea {
+margin-bottom: 15px;
+padding: 10px;
+border: 1px solid #ccc;
+border-radius: 4px;
+
+
+}
+
+form button {
+padding: 10px;
+background-color: rgba(0, 255, 255, 0.486);
+color: bisque;
+border: none;
+cursor: pointer;
+border-radius: 4px;
+
+}
+form button:hover {
+    background-color: rgba(255, 140, 0, 0.377);
+
+}
+
+footer {
+    background-color: rgba(255, 127, 80, 0.39);
+color: blanchedalmond;
+text-align: center;
+padding: 10px 0;
+position: relative;
+bottom: 0;
+width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
